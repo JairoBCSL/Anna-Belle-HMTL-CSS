@@ -1,0 +1,35 @@
+body{
+  width: 900px;
+  font-family: Arial;
+  background: url("imagens/fundo.png");
+}
+img{
+  border: 10px solid #c5c5b2;
+}
+a{
+  margin: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #4b566a;
+}
+h1{
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #828271;
+}
+.menu{
+  background: #c5c5b2;
+  padding: 18px;
+}
+.conteudo{
+  background: #e8e8d9;
+  padding: 10px;
+}
+.direitos{
+  font-weight: bold;
+  text-align: center;
+  border: 5px solid rgba(255,255,255,0.0);
+}
+.imagens_campanha{
+  border: 0px solid #c5c5b2;
+}
